@@ -24,16 +24,21 @@ export default async function UserIssues({ userId, orgId }) {
       <Tabs defaultValue="assigned" className="w-full">
         <TabsList>
           <TabsTrigger value="assigned">Assigned to You</TabsTrigger>
-          <TabsTrigger value="reported">Reported by You</TabsTrigger>
+          <TabsTrigger value="reported">Reported to You</TabsTrigger>
         </TabsList>
         <TabsContent value="assigned">
           <Suspense fallback={<div>Loading...</div>}>
-            <IssueGrid issues={assignedIssues} />
+            {assignedIssues.length === 0 ? (
+              <p className="mt-4 text-gray-500">No issues assigned to you.</p>
+            ) : (<IssueGrid issues={assignedIssues} />)}
           </Suspense>
         </TabsContent>
         <TabsContent value="reported">
           <Suspense fallback={<div>Loading...</div>}>
-            <IssueGrid issues={reportedIssues} />
+            {reportedIssues.length === 0 ? (
+              <p className="mt-4 text-gray-500">No issues reported to you.</p>
+            ) : (<IssueGrid issues={reportedIssues} />)}
+            
           </Suspense>
         </TabsContent>
       </Tabs>
