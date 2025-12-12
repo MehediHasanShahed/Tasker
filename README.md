@@ -110,7 +110,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 DATABASE_URL=
 ```
 
-*(Add any other required env vars depending on your backend/auth setup.)*
+*(Add any other required env vars if you change the backend/auth setup.)*
 
 ### **3. Run Development Server**
 
