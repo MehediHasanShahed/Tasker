@@ -123,7 +123,7 @@ App will be available at **[http://localhost:3000](http://localhost:3000)**
 ---
 
 ## 📸 Screenshot
-| Finance Tracker Interface |
+| Tasker Interface |
 |----------------------|
 | Landing Page |
 | <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/a2bb8937-35b3-4420-b900-fb40568d842d" />|
