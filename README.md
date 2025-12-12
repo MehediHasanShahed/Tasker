@@ -122,6 +122,27 @@ App will be available at **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
+## 📸 Screenshot
+| Finance Tracker Interface |
+|----------------------|
+| Landing Page |
+| <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/a2bb8937-35b3-4420-b900-fb40568d842d" />|
+| Organization Page |
+| <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/c7f621de-f4c3-45ac-b25f-f6f04d57f3b2" />|
+| My Issues section of Organization Page |
+| <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/3fdcf6f0-c197-485a-8e0f-c2e0c9efccd8" />|
+| Create Projects |
+| <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/9e146a71-4189-4699-89e5-7d04df0303ac" />|
+| Projects Page with Sprint and Issue creation and Kanban Board |
+| <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/1948c193-f408-418a-922d-b0793b60dd55" />|
+| Issue Creation Drawer |
+| <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/f7b4d9ea-5040-4d92-9bd2-ae19c0a14bb3" />|
+| Organization Invitation System |
+| <img width="1878" height="921" alt="image" src="https://github.com/user-attachments/assets/0e489e4f-a565-442d-8264-af4e8c882bc7" />|
+| <img width="1570" height="719" alt="image" src="https://github.com/user-attachments/assets/3188ad49-89b1-4e9b-bf9c-827937e26cd5" />|
+
+---
+
 ## 🏗️ **Build for Production**
 
 ```bash
@@ -140,3 +161,13 @@ npm start
 | `npm start`     | Run production build   |
 
 ---
+
+## 👨‍💻 Author
+
+**Mehedi Hasan Shahed**
+
+* **Email:** [mehedihasanshahed3@gmail.com](mailto:mehedihasanshahed3@gmail.com)
+
+* **LinkedIn:** [Mehedi Hasan Shahed](https://www.linkedin.com/in/mehedi-hasan-153404287/)
+
+💼 Software Developer | Web Engineer
